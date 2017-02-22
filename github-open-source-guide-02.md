@@ -1,8 +1,4 @@
----
-title: Github开源项目贡献指南[译文]
-date: 2017-02-22 12:04
-tags: github open source guide
----
+
 
 ## 什么是开源，为什么要开源
 
@@ -134,7 +130,7 @@ tags: github open source guide
 
 当你GitHub上创建了一个新项目，你可以选择许可协议。包括可以使你的GitHub项目开源的协议。
 
-![pick a license](/assets/images/starting-a-project/repository-license-picker.png)
+![pick a license](https://github.com/cnbo/open-source-guide/blob/gh-pages/assets/images/starting-a-project/repository-license-picker.png)
 
 如果你还有其它的疑问或者与开源项目相关的法律问题，[请来这里](../legal/)。
 
@@ -194,7 +190,7 @@ READMEs不仅解释了如何使用你的项目，他们还解释了你的项目�
 
  在README中附上CONTRIBUTING文件的链接，这样会让跟多的人看到。如果你 [将CONTRIBUTING文件放在项目的仓库中](https://help.github.com/articles/setting-guidelines-for-repository-contributors/),GitHub会自动链接你的文件当贡献者创建一条issue或者打开一个pull request。
 
-![contributing guidelines](/assets/images/starting-a-project/Contributing-guidelines.jpg)
+ ![contributing guidelines](https://github.com/cnbo/open-source-guide/blob/gh-pages/assets/images/starting-a-project/Contributing-guidelines.jpg)
 
 ### 制定行为规则
 
@@ -269,98 +265,39 @@ READMEs不仅解释了如何使用你的项目，他们还解释了你的项目�
 准备好开源你的项目了吗？有一份帮助检查清单。检查所有内容？你准备开始吧！ [点击 "publish"](https://help.github.com/articles/making-a-private-repository-public/) 以及拍下自己的后背。
 
 **文档**
+- 需要为项目指定一个开源协议
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox1" class="overflow-hidden d-block text-normal">
-    需要为项目指定一个开源协议
-  </label>
-</div>
+- 项目要有基础文档 (README, CONTRIBUTING, CODE_OF_CONDUCT)
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox2" class="overflow-hidden d-block text-normal">
-    项目要有基础文档 (README, CONTRIBUTING, CODE_OF_CONDUCT)
-  </label>
-</div>
+- 易记的项目名，指出项目是做什么的，不能和已存在的项目冲突或者商标侵权
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox3" class="overflow-hidden d-block text-normal">
-    易记的项目名，指出项目是做什么的，不能和已存在的项目冲突或者商标侵权
-  </label>
-</div>
-
-<div class="clearfix mb-4">
-  <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox4" class="overflow-hidden d-block text-normal">
-    最新的issue队列，组织和标记清除的issues
-  </label>
-</div>
+- 最新的issue队列，组织和标记清除的issues
 
 **代码**
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox5" class="overflow-hidden d-block text-normal">
-    项目使用一致的代码风格和明确的功能/方法/可用的名字
-  </label>
-</div>
+- 项目使用一致的代码风格和明确的功能/方法/可用的名字
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox6" class="overflow-hidden d-block text-normal">
-    注释清晰的代码，记录意图和边缘案例
-  </label>
-</div>
+- 注释清晰的代码，记录意图和边缘案例
 
-<div class="clearfix mb-4">
-  <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox7" class="overflow-hidden d-block text-normal">
-    在修改历史，issues或者 pull requests 中没有敏感的信息 (例如 密码或者其他不能公开的信息)
-  </label>
-</div>
+- 在修改历史，issues或者 pull requests 中没有敏感的信息 (例如 密码或者其他不能公开的信息)
+
 
 **人**
 
 如果你是代表个人：
-
-<div class="clearfix mb-4">
-  <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox8" class="overflow-hidden d-block text-normal">
-  你已经告诉了你的法律部门，以及/或者理解了你公司（如果你是某一家公司的员工）的开源政策和IP
-  </label>
-</div>
+-  你已经告诉了你的法律部门，以及/或者理解了你公司（如果你是某一家公司的员工）的开源政策和IP
 
 如果你有一家公司或者组织：
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox9" class="overflow-hidden d-block text-normal">
-    你已经告诉了你的法律部门
-  </label>
-</div>
+- 你已经告诉了你的法律部门
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox10" class="overflow-hidden d-block text-normal">
-    你有一个宣布和促进项目的营销计划
-  </label>
-</div>
+- 你有一个宣布和促进项目的营销计划
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox11" class="overflow-hidden d-block text-normal">
-    一些人被允许管理社区互动（回复issues，检查和合并pull requests）
-  </label>
-</div>
+- 一些人被允许管理社区互动（回复issues，检查和合并pull requests）
 
-<div class="clearfix mb-4">
-  <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox12" class="overflow-hidden d-block text-normal">
-    至少有两人管理访问项目
-  </label>
-</div>
+- 至少有两人管理访问项目
+
+
 
 ## 你做到了！
 
