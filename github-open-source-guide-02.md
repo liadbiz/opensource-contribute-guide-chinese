@@ -1,4 +1,8 @@
-
+---
+title: Github开源项目贡献指南-创建一个开源项目[译文]
+date: 2017-02-17 22:44:02
+tags: github open source guide
+---
 
 ## 什么是开源，为什么要开源
 

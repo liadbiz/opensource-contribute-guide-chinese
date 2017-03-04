@@ -1,10 +1,8 @@
 ---
-title: Github开源项目贡献指南[译文]
+title: Github开源项目贡献指南-怎么给开源项目做贡献[译文]
 date: 2017-02-17 22:44:02
 tags: github open source guide
 ---
-
-# 如何给开源项目做贡献
 
 ## 为何要给开源项目做贡献？
 
