@@ -116,8 +116,10 @@
 
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars0.githubusercontent.com/u/633012?v=3&s=460" class="pquote-avatar" alt="avatar">  
+  <img src="https://avatars0.githubusercontent.com/u/633012?v=3&s=460" class="pquote-avatar" alt="avatar">   
+  
   事实是，拥有一个支持性社区是关键。如果没有来自我的同事，互联网上一些友好的陌生人，以及聊天渠道IRC的帮助，我不可能做好这些工作。（。。。）不要太少。不要找麻烦。
+  
   <p markdown="1" class="pquote-credit">
 — @karissa, ["How to Run a FOSS Project"](https://karissa.github.io/post/okf-de)
   </p>
